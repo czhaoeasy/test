@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<controls>
+	<organization id="06004" status="1">
+		<trade id="PCReq" status="1">
+			<flow>30</flow>
+			<outType>1</outType>
+			<outTime>10</outTime>
+		</trade>
+		<trade id="UFDQReq" status="1">
+			<flow>30</flow>
+			<outType>1</outType>
+			<outTime>10</outTime>
+		</trade>
+	</organization>
+</controls>

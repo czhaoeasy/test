@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/工作/兴业/记录/定时任务/包/quartz.jar"/>
+	<classpathentry kind="lib" path="F:/工作/兴业/learn/ireport/iReport-5.5.0/ireport/modules/ext/ifxjdbc-g.jar"/>
+	<classpathentry kind="lib" path="F:/工作/兴业/learn/ireport/iReport-5.5.0/ireport/modules/ext/ifxjdbcx-g.jar"/>
+	<classpathentry kind="lib" path="F:/工作/兴业/learn/ireport/iReport-5.5.0/ireport/modules/ext/iText-2.1.7.js2.jar"/>
+	<classpathentry kind="lib" path="F:/工作/兴业/learn/ireport/iReport-5.5.0/ireport/modules/ext/iTextAsian.jar"/>
+	<classpathentry kind="lib" path="F:/工作/兴业/learn/ireport/iReport-5.5.0/ireport/modules/ext/jasperreports-5.5.0.jar"/>
+	<classpathentry kind="lib" path="F:/工作/兴业/learn/ireport/iReport-5.5.0/ireport/modules/ext/jta.jar"/>
+	<classpathentry kind="lib" path="F:/工作/兴业/learn/ireport/iReport-5.5.0/ireport/modules/ext/poi-3.7-20101029.jar"/>
+	<classpathentry kind="lib" path="F:/工作/兴业/learn/ireport/iReport-5.5.0/ireport/modules/ext/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/工作/兴业/learn/ireport/iReport-5.5.0/ireport/modules/ext/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="F:/工作/兴业/learn/ireport/iReport-5.5.0/ireport/modules/ext/groovy-all-2.0.1.jar"/>
+	<classpathentry kind="lib" path="gutenberg/jedis-2.6.1.jar"/>
+	<classpathentry kind="lib" path="gutenberg/spring-beans-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="gutenberg/spring-core-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="gutenberg/spring-context-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="gutenberg/spring-expression-4.1.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="gutenberg/commons-pool-1.6.jar"/>
+	<classpathentry kind="lib" path="gutenberg/commons-pool2-2.3.jar"/>
+	<classpathentry kind="lib" path="gutenberg/spring-data-redis-1.5.0.RELEASE.jar"/>
+	<classpathentry kind="lib" path="gutenberg/fastjson-1.2.7.jar"/>
+	<classpathentry kind="lib" path="gutenberg/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="gutenberg/fluent-hc-4.5.1.jar"/>
+	<classpathentry kind="lib" path="gutenberg/httpclient-win-4.5.1.jar"/>
+	<classpathentry kind="lib" path="gutenberg/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="gutenberg/httpmime-4.5.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="com.genuitec.runtime.library/com.genuitec.generic_5.0"/>
+	<classpathentry kind="lib" path="F:/worksp/xinye/test/spring.jar"/>
+	<classpathentry kind="lib" path="F:/worksp/xinye/test/spring-web.jar"/>
+	<classpathentry kind="lib" path="F:/worksp/xinye/test/spring-webmvc.jar"/>
+	<classpathentry kind="lib" path="F:/平欣工作/learn/memcached/java_memcached-release_2.6.6/java_memcached-release_2.6.6.jar"/>
+	<classpathentry kind="lib" path="F:/平欣工作/learn/memcached/java_memcached-release_2.6.6/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="F:/平欣工作/learn/memcached/java_memcached-release_2.6.6/commons-pool-1.5.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
