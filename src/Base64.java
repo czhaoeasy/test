@@ -92,6 +92,7 @@ public class Base64 {
     
     
     public static void main(String[] args) {
+		//test
     	System.out.println(new String(Base64.decode("QUZCNTIwNTczNzQxMDIxQ0JFRTIyMkZC".toCharArray())));
     	
     	System.out.println(new String(Base64.encode("1".getBytes())));
