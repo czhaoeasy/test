@@ -6,7 +6,7 @@ import org.quartz.JobExecutionException;
 
 
 public class Time implements Job{
-	
+	//test 4
 	public void execute(JobExecutionContext jobCtx)throws JobExecutionException {
 		System.out.println(jobCtx.getTrigger().getName()+ " triggered. time is:" + (new Date()));
 		}
