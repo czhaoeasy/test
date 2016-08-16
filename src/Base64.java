@@ -92,7 +92,7 @@ public class Base64 {
     
     
     public static void main(String[] args) {
-		//test 2 3 5
+		//test 2 3 5 7
     	System.out.println(new String(Base64.decode("QUZCNTIwNTczNzQxMDIxQ0JFRTIyMkZC".toCharArray())));
     	
     	System.out.println(new String(Base64.encode("1".getBytes())));
